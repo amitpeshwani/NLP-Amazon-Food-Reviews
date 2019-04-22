@@ -71,7 +71,7 @@ It is necessary to convert the words in vector format for NLP tasks . So used fo
 
 - Dimensionality reduction using UMAP on Average W2V to visualize seperation of positive and negative reviews :
 
-![alt text](similar2.png "Dimensionality Reduction")
+![alt text](sample2.png "Dimensionality Reduction")
 
 - Top 20 important words that are responsible for classification of reviews :
 
