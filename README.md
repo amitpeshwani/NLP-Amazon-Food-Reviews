@@ -2,6 +2,13 @@
 
 Data Source : [Data](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 
+## Machine-Learning Objective 
+
+NLP is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.
+
+This project mainly focuses on Sentiment Analysis of Amazon Food Reviews. 
+Various methods ranging from wordvectors to complex deep learning methods are used in this project.
+
 The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
 
 - Number of reviews: 568,454
@@ -23,9 +30,7 @@ Attribute Information:
 - Summary - brief summary of the review
 - Text - text of the review
 
-## Machine-Learning Objective 
 
-Based on review text , identify the reviews are negative or positive .
 
 ## Approach
 
